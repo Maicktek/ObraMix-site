@@ -3,7 +3,7 @@
 
 <head>
    <meta charset="UTF-8" />
-   <title>ObraMix - Casas pré-montadas</title>
+   <title>Loja</title>
    <link rel="stylesheet" type="text/css" href="stylo.css">
 
 </head>
@@ -11,7 +11,7 @@
 <body>
    <div id="area-cabecalho">
       <div id="area-logo">
-         <h1>Obra<span class="branco">Mix</span></h1>
+         <h1>Casa do <span class="branco">Serralheiro</span></h1>
 
       </div>
       <div id="area-menu">
@@ -28,14 +28,11 @@
    <div id="area-principal">
       <div id="area-postagens">
          <div class="postagem">
-            <h2>Tudo para sua obra</h2>
+            <h2></h2>
             
             <img width="620px" src="img/capa.png.png">
             <p>
-               Para construir com segurança, você precisa dos 
-               melhores! Aqui na Obra Mix oferecemos a melhor 
-               qualidade para sua obra e com preços justos!Venha nos visitar 
-                e faça um orçamento. Acredito que não irá se arrepender !
+            
             </p>
          
             
